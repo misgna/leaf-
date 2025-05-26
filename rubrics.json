@@ -55,14 +55,14 @@
    2: "The topic is difficult to identify, either because it is underdeveloped or not clearly stated",
    1: "The topic is completely unclear, making it difficult for the reader to understand the purpose of the text"
 },
-'Specificity of explanation": {
+ "Specificity of explanation": {
    5: "The explanation is clear, focused, and provides all the relevant details to fully understand the topic",
    4: "The explanation is generally clear and detailed, though there may be occasional generalizations or lack of examples",
    3: "The explanation is somewhat clear but lacks sufficient detail in certain areas",
    2: "The explanation is to vague or incomplete, lacking sufficient detail or examples",
    1: "The explanation is general, completely lacks detail"
  },
-'Ceativity of thought": {
+  "Ceativity of thought": {
    5: "The essay is original, imaginative, and thought provoking",
    4: "The essay contains novel insights or unique approaches, but with a slight reliance on common approaches",
    3: "The essay contains some cretive ideas, but many of them are not highly original",
