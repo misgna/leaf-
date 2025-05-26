@@ -1,7 +1,7 @@
 # LEAF++: Enriching Essay Feedback Dataset with Trait Scores
 
 ## Dataset description
-The LEAF++ dataset is an extended version of the original LEAF dataset, which previously included only free-form feedback. LEAF++ enriches the original dataset with detailed trait-level annotations, providing scores across multiple dimensions. Here are the names for each traits:
+The LEAF++ dataset is an extended version of the original LEAF dataset by Behzad et al. (2024)([Paper](https://aclanthology.org/2024.naacl-short.36.pdf), [Dataset](https://github.com/shabnam-b/LEAF)), which previously included only free-form feedback. LEAF++ enriches the original dataset with detailed trait-level annotations, providing scores across multiple dimensions. Here are the names for each traits:
 - **trait_1**: Grammar accuracy
 - **trait_2**: Appropriateness of word use
 - **trait_3**: Elasticity of sentence expression
